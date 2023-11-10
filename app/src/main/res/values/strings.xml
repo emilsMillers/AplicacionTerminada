@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PreguntasApp</string>
+    <string name="true_button_label">TRUE</string>
+    <string name="false_button_label">FALSE</string>
+    <string name="next_button_label">Next</string>
+    <string name="correct_message">¡Correcto!</string>
+    <string name="incorrect_message">¡Incorrecto!</string>
+</resources>
